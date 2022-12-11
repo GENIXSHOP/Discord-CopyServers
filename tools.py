@@ -1,4 +1,3 @@
-# MTAwODc1NDEzOTQxNDY1OTIwMg.GnPXID.gXNEpTWWVjIdqbFRylPKCFiu7FBpjfdAKnNcSQ
 import os
 import discord
 from discord.ext import commands
